@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color: cadetblue;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: aquamarine;
+}
+
+.thumbnail {
+    background: -moz-element();
+}
+ 
+div {
+    color: yellow;
+}
