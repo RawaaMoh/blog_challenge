@@ -1,0 +1,40 @@
+Instructions from your teacher:
+Instructions
+As the second step in the application process, we want you to create a simple webpage in the editor on the left using HTML and CSS. 
+
+- Build each of the sections below using HTML and style them using CSS.
+- Write your html code in index.html file.
+- Styles for all sections being written in the index.css file. (no inline CSS will be accepted)
+
+Use what you learned in the freeCodeCamp lessons, and also feel free to look for other resources on Google, StackOverflow, YouTube, and so on.
+
+Hint 1: At any point you want to check your work, just hit the run button at the top. 
+
+Hint 2: Make your webpage about something you like! For example, a personal page, a page about your family, a hobby, a blog page etc.
+
+When you finish this challenge click on the submit button at the top right side of the page to send the challenge. If you don't do this, the challenge will not be sent.
+
+1. HTML Requirements
+
+Your webpage must have the following requirements:
+- Title
+- Paragraph
+- Image
+- Div
+- Link
+- List
+- Form, input, button
+- Bold and italic words
+- Feel free to add more HTML elements if you can and get bonus points!  
+
+2. CSS Requirements 
+
+Your webpage must have the following requirements:
+- Title
+- Import a font from Google fonts and use it
+- Add some margin and padding to elements
+- Add some border and border-radius to elements
+- Add ID and Class to HTML elements and use at least one id attribute and at least one class attribute for styling
+- Feel free to add more CSS codes if you can and get bonus points!
+
+Don't forget to run your application before submitting to check for mistakes.
