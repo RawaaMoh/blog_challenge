@@ -1,25 +1,24 @@
-
 body {
-    background-color: rgb(81, 146, 179);
-}
-
-h1 { 
-    font-family: Oswald;
-    color:  rgb(81, 146, 179);
+    background-color: black;
 }
 
 h2 {
-    color:  rgb(81, 146, 179);
+    color: cadetblue;
     text-align: center;
 }
 
-p {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    color: aliceblue;
-}
 
 .thumbnail {
     background: -moz-element();
 }
+ 
+div {
+    color: yellow;
+}
+p.b {
+  font: italic bold 12px/30px Georgia, serif; 
+  font-size: 20px;
+  color: aquamarine;
+}
 
+p.solid {border-style: solid;color:red}
