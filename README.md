@@ -1,1 +1,2 @@
-# blog_challenge
+#Anime Blog
+In Japan, anime is the term used to refer to all animations. And for the rest of the world, anime is the umbrella term for animation from Japan. It has a wide pool of fans, ranging from kids to adults. Anime is more than just a childhood thing. It influences you in so many ways that it becomes something you don’t just “grow out of”. It’s quite unique from the everyday cartoon when it comes to details, styles, and storytelling.
