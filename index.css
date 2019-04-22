@@ -1,5 +1,10 @@
 body {
-    background-color: black;
+    background-color: rgb(81, 146, 179);
+}
+
+h1 { 
+    font-family: Oswald;
+    color:  rgb(81, 146, 179);
 }
 
 h2 {
@@ -13,12 +18,18 @@ h2 {
 }
  
 div {
-    color: yellow;
 }
+
 p.b {
   font: italic bold 12px/30px Georgia, serif; 
   font-size: 20px;
   color: aquamarine;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: aliceblue;
 }
 
 p.solid {border-style: solid;color:red}
