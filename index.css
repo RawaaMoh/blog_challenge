@@ -8,19 +8,27 @@ h1 {
 }
 
 h2 {
-    color:  rgb(81, 146, 179);
+    color: cadetblue;
     text-align: center;
 }
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 35ee0c8f07521a6aacce92f0b2a3f6e36ddee7f1
 .thumbnail {
     background: -moz-element();
 }
  
+<<<<<<< HEAD
  div {
   
 } 
+=======
+div {
+}
+>>>>>>> 35ee0c8f07521a6aacce92f0b2a3f6e36ddee7f1
 
 p.b {
   font: italic bold 12px/30px Georgia, serif; 
@@ -34,5 +42,9 @@ p {
     color: aliceblue;
 }
 
+<<<<<<< HEAD
 
 p.solid {border-style: solid;color:red}
+=======
+p.solid {border-style: solid;color:red}
+>>>>>>> 35ee0c8f07521a6aacce92f0b2a3f6e36ddee7f1
